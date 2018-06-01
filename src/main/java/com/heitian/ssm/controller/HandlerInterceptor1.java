@@ -31,7 +31,7 @@ public class HandlerInterceptor1 implements HandlerInterceptor {
                              Object handler) throws Exception {
 
         System.out.println("HandlerInterceptor1......preHandle");
-        System.out.println();
+
         System.out.println("local master");
 
 
