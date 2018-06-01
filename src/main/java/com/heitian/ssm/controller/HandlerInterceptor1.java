@@ -32,7 +32,7 @@ public class HandlerInterceptor1 implements HandlerInterceptor {
 
         System.out.println("HandlerInterceptor1......preHandle");
         System.out.println();
-        System.out.println("dev2");
+
 
         //return false表示拦截，不向下执行
         //return true表示放行
